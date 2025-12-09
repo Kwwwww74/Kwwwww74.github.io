@@ -33,7 +33,7 @@ Hi~~~ I am Kaiwen Luo, a Junior student at North China Electric Power University
 
 **Hidden in the Noise: Unveiling Backdoors in Audio LLMs Alignment through Latent Acoustic Pattern Triggers**
 
-Liang Lin\*, Miao Yu\*, Kaiwen Luo\*, Yibo Zhang, Lilan Peng, Dexian Wang, Xuehai Tang, Yuanhe Zhang, Xikang Yang, Zhenhong Zhou\†, Kun Wang\†, Yang Liu
+Liang Lin\*, Miao Yu\*, Kaiwen Luo\*, Yibo Zhang, Lilan Peng, Dexian Wang, Xuehai Tang, Yuanhe Zhang, Xikang Yang, Zhenhong Zhou†, Kun Wang†, Yang Liu
 
 💻 [**Code**]: [Link](https://github.com/Kwwwww74/Hidden-in-the-Noise) 
 
@@ -47,4 +47,4 @@ Liang Lin\*, Miao Yu\*, Kaiwen Luo\*, Yibo Zhang, Lilan Peng, Dexian Wang, Xueha
 
 # 💻 Internships
 - *2025.10 - now*, [TeleAI](https://github.com/Tele-EVOL), China.
-- *2025.04 - now*, [Nanyang Technological University], Singapore.
+- *2025.04 - now*, [Nanyang Technological University](https://www.ntu.edu.sg), Singapore.
