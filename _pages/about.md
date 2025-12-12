@@ -42,6 +42,20 @@ Liang Lin\*, Miao Yu\*, Kaiwen Luo\*, Yibo Zhang, Lilan Peng, Dexian Wang, Xueha
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition Letters</div><img src='images/E2GenF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**E²GenF: Universal AIGC Image Detection based on Edge Enhanced Generalizable Features**
+
+Jian Zou, Jun Wang, Kezhong Lu, Yingxin Lai, Kaiwen Luo, Zitong Yu
+
+💻 [**Code**]: [Link](https://github.com/zj56/EdgeEnhanced-DeepfakeDetection) 
+
+📄 [**Paper**]: [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167865525004015)
+
+</div>
+</div>
+
 # 📖 Educations
 - *2023.09 - 2027.06*, Bachelor of Information Security, North China Electric Power University.
 
