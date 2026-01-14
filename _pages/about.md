@@ -60,5 +60,4 @@ Jian Zou, Jun Wang, Kezhong Lu, Yingxin Lai, Kaiwen Luo, Zitong Yu
 - *2023.09 - 2027.06*, Bachelor of Information Security, North China Electric Power University.
 
 # 💻 Internships
-- *2025.10 - 2025。12*, [TeleAI](https://github.com/Tele-EVOL), China.
-- *2025.04 - now*, [Nanyang Technological University](https://www.ntu.edu.sg), Singapore.
+- *2025.10 - 2025.12*, [TeleAI](https://github.com/Tele-EVOL), China.
