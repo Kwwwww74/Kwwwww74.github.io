@@ -23,6 +23,7 @@ Hi~~~ I am Kaiwen Luo, a Junior student at North China Electric Power University
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026(Oral)
+- *2026.04*: &nbsp;🎉🎉 Two papers are accepted by ACL 2026 
 
 # 📝 Publications 
 > * indicates author with equal contribution
@@ -38,6 +39,20 @@ Liang Lin\*, Miao Yu\*, Kaiwen Luo\*, Yibo Zhang, Lilan Peng, Dexian Wang, Xueha
 💻 [**Code**]: [Link](https://github.com/Kwwwww74/Hidden-in-the-Noise) 
 
 📄 [**Paper**]: [Link](https://arxiv.org/pdf/2508.02175)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/main.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HearSay Benchmark: Do Audio LLMs Leak What They Hear?**
+
+Jin Wang\*, Kaiwen Luo\*, Liang Lin\*, Weiliu Wang, Yitian Chen, Moayad Aloqaily, Xuehai Tang, Zhenhong Zhou, Kun Wang†, Li Sun†, Qingsong Wen
+
+💻 [**Code**]: [Link](https://github.com/JinWang79/HearSay_Benchmark) 
+
+📄 [**Paper**]: [Link](https://arxiv.org/pdf/2601.03783)
 
 </div>
 </div>
