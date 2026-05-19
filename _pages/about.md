@@ -57,6 +57,20 @@ Jin Wang\*, Kaiwen Luo\*, Liang Lin\*, Weiliu Wang, Yitian Chen, Moayad Aloqaily
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/intro-yibo2.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HearSay Benchmark: Do Audio LLMs Leak What They Hear?**
+
+Yibo Zhang\*, Kaiwen Luo\*, Liang Lin\*, Shilinlu Yan, Jin Wang, Yaoqi Guo, Yitian Chen, Yalan Qin, Zhenhong Zhou, Kun Wang†, Li Sun†
+
+💻 [**Code**]: [Link](https://github.com/Yibo124/RSA-Bench) 
+
+📄 [**Paper**]: [Link](https://arxiv.org/pdf/2601.10384)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition Letters</div><img src='images/E2GenF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
