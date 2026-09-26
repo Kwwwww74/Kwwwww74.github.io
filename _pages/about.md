@@ -90,3 +90,5 @@ Jian Zou, Jun Wang, Kezhong Lu, Yingxin Lai, Kaiwen Luo, Zitong Yu
 
 # 💻 Internships
 - *2025.10 - 2025.12*, [TeleAI](https://github.com/Tele-EVOL), China.
+- *2025.04 - 2026.02*, [Nanyang Technological University(Prof.Yang Liu)](https://personal.ntu.edu.sg/yangliu/), Singapore.
+- *2026.02 - Now*, [Nanyang Technological University(Prof.Yew-Soon One)](https://personal.ntu.edu.sg/asysong/home.html), Singapore.
