@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~~~ I am Kaiwen Luo, a Junior student at North China Electric Power University, Prof. [Li Sun](https://sunli-ai.github.io). My research interest includes LLM Safety and Trustworthy AI.
+Hi~~~ I am Kaiwen Luo, a Senior student at North China Electric Power University, Prof. [Li Sun](https://sunli-ai.github.io). My research interest includes LLM Safety and Trustworthy AI.
 
 **If you are interested in my research, please contact me by email**.😊😊😊
 
