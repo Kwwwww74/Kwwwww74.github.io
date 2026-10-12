@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kevin Luo"
-description              : "LLM Safety & Trustworthy AI"
+description              : "Large Language Model, Trustworthy AI, Speech and Audio Processing"
 repository               : "Kwwwww74/Kwwwww74.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaiwen Luo"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "North China Electric Power University"
-  location         : "Beijing, China"
+  bio              : "NCEPU & NTU"
+  location         : "Beijing, China & Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XnZXByMAAAAJ"
