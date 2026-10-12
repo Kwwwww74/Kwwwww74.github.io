@@ -72,7 +72,7 @@ Yibo Zhang\*, Kaiwen Luo\*, Liang Lin\*, Shilinlu Yan, Jin Wang, Yaoqi Guo, Yiti
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/explaining.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/explaining.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Explaining and Breaking the Safety-Helpfulness Ceiling via Preference Dimensional Expansion**
@@ -86,7 +86,7 @@ Shiying Huang, Liang Lin, Yuer Li, Kaiwen Luo, Zhenhong Zhou, An Zhang, Junhao D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/echo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/echo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EchoDistill: Robust Large Audio Language Models Via Noisy-to-Clean Self-Distillation**
@@ -98,7 +98,7 @@ Kaiwen Luo, Chunxi Luo, Liang Lin, Yuxuan Li, Zhenhong Zhou, Junhao Dong†, Yin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/chronos.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/chronos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Chronosaudio: A comprehensive long-audio benchmark for evaluating audio-large language models**
@@ -110,7 +110,7 @@ Kaiwen Luo, Liang Lin, Moayad Aloqaily, Dexian Wang, Zhenhong Zhou, Junwei Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/survey1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/survey1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook**
