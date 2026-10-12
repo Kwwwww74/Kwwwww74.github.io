@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~~~ I am Kaiwen Luo, a Senior student at North China Electric Power University, Prof. [Li Sun](https://sunli-ai.github.io). My research interest includes LLM Safety and Trustworthy AI.
+Hi~~~ I am Kaiwen Luo, a Senior student at North China Electric Power University, Prof. [Li Sun](https://sunli-ai.github.io). I’m currently a research assistant at Nanyang Technological University, Prof.[Yew-Soon Ong](https://personal.ntu.edu.sg/asysong/home.html). My research interest includes LLM, Trustworthy AI and Speech and Audio Processing.
 
 **If you are interested in my research, please contact me by email**.😊😊😊
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026(Oral)
-- *2026.04*: &nbsp;🎉🎉 Two papers are accepted by ACL 2026 
+- *2026.04*: &nbsp;🎉🎉 Two papers are accepted by ACL 2026
+- *2026.09*：&nbsp;🎉🎉 One paper is accepted by NeurIPS 2026 
 
 # 📝 Publications 
 > * indicates author with equal contribution
@@ -71,19 +72,60 @@ Yibo Zhang\*, Kaiwen Luo\*, Liang Lin\*, Shilinlu Yan, Jin Wang, Yaoqi Guo, Yiti
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition Letters</div><img src='images/E2GenF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/explaining.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**E²GenF: Universal AIGC Image Detection based on Edge Enhanced Generalizable Features**
+**Explaining and Breaking the Safety-Helpfulness Ceiling via Preference Dimensional Expansion**
 
-Jian Zou, Jun Wang, Kezhong Lu, Yingxin Lai, Kaiwen Luo, Zitong Yu
+Shiying Huang, Liang Lin, Yuer Li, Kaiwen Luo, Zhenhong Zhou, An Zhang, Junhao Dong, Kun Wang, Zhigang Zeng
 
-💻 [**Code**]: [Link](https://github.com/zj56/EdgeEnhanced-DeepfakeDetection) 
+💻 [**Code**]: [Link](https://github.com/Shiying-Huang/MORA-MPA) 
 
-📄 [**Paper**]: [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167865525004015)
+📄 [**Paper**]: [Link](https://arxiv.org/pdf/2605.11679)
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/echo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EchoDistill: Robust Large Audio Language Models Via Noisy-to-Clean Self-Distillation**
+
+Kaiwen Luo, Chunxi Luo, Liang Lin, Yuxuan Li, Zhenhong Zhou, Junhao Dong†, Yingjie Zhou, Zhendong Chu
+
+📄 [**Paper**]: [Link](https://arxiv.org/pdf/2605.23954)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/chronos.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Chronosaudio: A comprehensive long-audio benchmark for evaluating audio-large language models**
+
+Kaiwen Luo, Liang Lin, Moayad Aloqaily, Dexian Wang, Zhenhong Zhou, Junwei Zhang, Kun Wang, Li Sun, Qingsong Wen
+
+📄 [**Paper**]: [Link](https://arxiv.org/pdf/2601.04876)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/survey1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook**
+
+Kaiwen Luo, Zhenhong Zhou, Leyan Wang, Liang Lin, Tianyu Shao, Yuanhe Zhang, Yang Xiao, Yuxuan Li, Miao Yu, Kailin Lyu, Jiaming Zhang, Li Sun, Songze Li, Yueming Wu, Ting Dang, Xiaojun Jia, Dongrui Liu, Kai Li, Rohan Kumar Das, Siyuan Liang, Xinfeng Li, Qiankun Li, Jing Chen, Xingjun Ma, Kun Wang, Junhao Dong, Deqing Zou, Yu Cheng, Xia Hu, Zhigang Zeng, Sen Su, Yang Liu, Yu-Gang Jiang, Philip S. Yu, Yew-Soon Ong
+
+
+💻 [**Code**]: [Link](https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs) 
+
+📄 [**Paper**]: [Link](https://arxiv.org/pdf/2605.20266)
+
+</div>
+</div>
+
+
 
 # 📖 Educations
 - *2023.09 - 2027.06*, Bachelor of Information Security, North China Electric Power University.
@@ -92,3 +134,4 @@ Jian Zou, Jun Wang, Kezhong Lu, Yingxin Lai, Kaiwen Luo, Zitong Yu
 - *2025.10 - 2025.12*, [TeleAI](https://github.com/Tele-EVOL), China.
 - *2025.04 - 2026.02*, [Nanyang Technological University(Prof.Yang Liu)](https://personal.ntu.edu.sg/yangliu/), Singapore.
 - *2026.02 - Now*, [Nanyang Technological University(Prof.Yew-Soon Ong)](https://personal.ntu.edu.sg/asysong/home.html), Singapore.
+- *2026.10 - Now*, [Xiaomi](), China.
